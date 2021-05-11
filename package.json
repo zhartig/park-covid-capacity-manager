@@ -23,13 +23,13 @@
     "@angular/router": "~9.1.6",
     "@fortawesome/angular-fontawesome": "^0.6.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
-    "@fortawesome/free-brands-svg-icons": "^5.13.0",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
     "@fortawesome/free-regular-svg-icons": "^5.13.0",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@sweetalert2/ngx-sweetalert2": "^8.1.0",
     "bootstrap": "^4.5.0",
     "moment": "^2.29.1",
-    "rxjs": "~6.5.4",
+    "rxjs": "~6.6.7",
     "sweetalert2": "^9.10.13",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
@@ -50,7 +50,7 @@
     "karma-jasmine": "~4.0.1",
     "karma-jasmine-html-reporter": "^1.4.2",
     "protractor": "~7.0.0",
-    "ts-node": "~8.3.0",
+    "ts-node": "~9.1.1",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
   }
