@@ -24,7 +24,7 @@
     "@fortawesome/angular-fontawesome": "^0.6.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
-    "@fortawesome/free-regular-svg-icons": "^5.15.3",
+    "@fortawesome/free-regular-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@sweetalert2/ngx-sweetalert2": "^8.1.1",
     "bootstrap": "^4.5.0",
